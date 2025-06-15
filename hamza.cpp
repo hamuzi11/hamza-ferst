@@ -5,5 +5,6 @@ int main(){
 
     cout<<"hellow world";
   cout<<"ffaafra";
+  cout<<"fa";
 
 }
