@@ -4,7 +4,7 @@ using namespace std;
 int main(){
 
     cout<<"hellow world";
-  cout<<"ffaafra";
-  cout<<"fa";
+  cout<<"hamza";
+  cout<<"test";
 
 }
