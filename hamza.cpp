@@ -4,6 +4,6 @@ using namespace std;
 int main(){
 
     cout<<"hellow world";
-
+  cout<<"ffaafra";
 
 }
