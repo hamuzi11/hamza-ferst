@@ -7,6 +7,7 @@ int main(){
   cout<<"hamza";
   cout<<"test";
   cout<<"te";
+  cin<<"game";
 
 
 
